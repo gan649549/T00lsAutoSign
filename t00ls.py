@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+
 import os
 import sys
 import json
@@ -28,6 +29,7 @@ question_answer = os.environ['ANSWER']  # 安全提问答案
 # 4 = 您其中一位老师的名字
 # 5 = 您个人计算机的型号
 # 6 = 您最喜欢的餐馆名称
+
 # 7 = 驾驶执照的最后四位数字
 
 
